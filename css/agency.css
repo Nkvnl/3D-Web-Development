@@ -116,7 +116,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #3c756c;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -635,7 +635,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .overlay {
-    position: fixed; /* Sit on top of the page content */
+    position: fixed /* Sit on top of the page content */
     display: none; /* Hidden by default */
     width: 100%; /* Full width (cover the whole page) */
     height: 100%; /* Full height (cover the whole page) */
